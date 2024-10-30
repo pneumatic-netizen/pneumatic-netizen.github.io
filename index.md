@@ -1,12 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Page Title</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Chin-Ho Lin</title>
+    <style type="text/css">
+        *{
+            border:0;
+            margin:0;
+        }
+    </style>
 </head>
 <body>
-
-<h1>Hello Examiner, hopefully you can see the pdf now!</h1>
-<object data="pdfs/250BoxesChallenge.pdf" width="1680" height="1188" type='application/pdf'/>
-
+    <div style="height: 100vh;">
+        <iframe src="https://pneumatic-netizen.github.io/pdfs/250BoxesChallenge.pdf" width="100%" height="100%"></iframe>
+    </div>
 </body>
 </html>
