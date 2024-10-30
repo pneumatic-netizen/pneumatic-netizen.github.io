@@ -1,11 +1,12 @@
----
-layout: single
-title: "Curriculum Vitae"
-sitemap: false
-permalink: /Curriculum/
-author_profile: TRUE
-header:
-  image: assets/images/banner.jpg
----
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-<embed src="https://belovanna.github.io/pdfs/250BoxesChallenge.pdf" type="application/pdf" />
+<h1>Hello Examiner, hopefully you can see the pdf now!</h1>
+<object data="pdfs/250BoxesChallenge.pdf" width="630" height="891" type='application/pdf'/>
+
+</body>
+</html>
