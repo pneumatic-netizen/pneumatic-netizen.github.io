@@ -6,7 +6,7 @@
 <body>
 
 <h1>Hello Examiner, hopefully you can see the pdf now!</h1>
-<object data="pdfs/250BoxesChallenge.pdf" width="630" height="891" type='application/pdf'/>
+<object data="pdfs/250BoxesChallenge.pdf" width="1680" height="1188" type='application/pdf'/>
 
 </body>
 </html>
